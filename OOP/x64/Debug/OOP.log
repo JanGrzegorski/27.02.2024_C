@@ -1,0 +1,8 @@
+﻿  OOP.cpp
+C:\Users\Programista\Desktop\27.02.2024_C\OOP\OOP.cpp(15,27): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Programista\Desktop\27.02.2024_C\OOP\OOP.cpp(32,56): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\27.02.2024_C\OOP\OOP.cpp(35,60): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\27.02.2024_C\OOP\OOP.cpp(35,55): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\27.02.2024_C\OOP\OOP.cpp(38,53): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\27.02.2024_C\OOP\OOP.cpp(38,48): warning C4305: "argument": obcięcie z "double" do "float"
+  OOP.vcxproj -> C:\Users\Programista\Desktop\27.02.2024_C\OOP\x64\Debug\OOP.exe

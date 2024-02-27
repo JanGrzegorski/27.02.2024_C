@@ -1,0 +1,5 @@
+﻿  Zad2.cpp
+C:\Users\Programista\Desktop\27.02.2024_C\Zad2\Zad2.cpp(50,28): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\27.02.2024_C\Zad2\Zad2.cpp(50,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\27.02.2024_C\Zad2\Zad2.cpp(50,38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  Zad2.vcxproj -> C:\Users\Programista\Desktop\27.02.2024_C\Zad2\x64\Debug\Zad2.exe

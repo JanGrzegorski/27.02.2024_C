@@ -1,0 +1,28 @@
+c++ OOP Konsruktor i destruktor
+
+Zadanie do domu:
+Utwórz prezentacje min 10 slajdów
+Zaprezentój definicje, oraz przykłady w c++ ,mogą być screeny
+class Klasa{
+	private:
+	int liczba1;
+	int liczba2;
+
+	public:
+		Klasa(int l1, int l2){
+		
+		this->liczba1 = l1;
+		this->liczba2 = l2;
+
+		} //konstruktor klasy
+		int dodawanie(){
+		return this->liczba1 + this->liczba2;
+		}
+		~Klasa(){} //konstruktor klasy
+};
+
+Klasa obiekt = Klasa(10,20);//Klasa obiekt
+obiekt.dodawanie();         //obiekt.liczba1 =100;
+                            //obiekt.liczba2 =200; 
+			    //cout << obiekt.dodawanie();
+"this===Klasa"
